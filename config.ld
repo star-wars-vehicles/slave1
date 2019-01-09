@@ -10,7 +10,7 @@ format = 'discount'
 dir = 'docs'
 
 local exclude = {
-  'lua/effects',
+
 }
 
 file = { 'lua', exclude = exclude }
